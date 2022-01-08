@@ -32,7 +32,7 @@ The app use a .txt file to sava and load data.
 
 Notes:  
   - JavaFX use MVC model.  
-  - One Stagemultiple Scenes
+  - One Stage, multiple Scenes.
   - Layout (GridPane, HBox, BorderPane, ...)  
   - Controls : Button , Label, RadioButton, CheckBox, TextField, PasswordField, ComboBox(Dropdown list), Slider, Spinner, ColorPicker, DatePicker, etc… . 
   - Events and Event Handler: every control has a set of events (onMouseClicked). The events from .fxml file are handled in controller.
