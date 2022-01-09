@@ -36,10 +36,11 @@ Notes:
   - Layout (GridPane, HBox, BorderPane, ...)  
   - Controls : Button , Label, RadioButton, CheckBox, TextField, PasswordField, ComboBox(Dropdown list), Slider, Spinner, ColorPicker, DatePicker, etc… . 
   - Events and Event Handler: every control has a set of events (onMouseClicked). The events from .fxml file are handled in controller.
+  - SceneBuilder: visual layout tool for designing JavaFx applications.
 
 TodoData class is a Singleton:  only one instance of the class is created on the entire run of the application. The Singleton class crate the one instance of itself. Have a private constructor. Contains a static method that allow any classes to get the single instance and to call it’s methods.     
 
-SceneBuilder: visual layout tool for designing JavaFx applications.
+
 
 
 
